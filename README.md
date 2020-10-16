@@ -1,16 +1,17 @@
 # GenericEric's Arch Rice Script (GEARS)
-# a fork of [LARBS](https://github.com/lukesmithxyz/LARBS)
+## a fork of [LARBS](https://github.com/lukesmithxyz/LARBS)
+
+
+#This script is highly unstable as of now. I recommend you only run it for a user account you don't care to keep. Or if you just want to play with it. :)
+
 
 ## Installation:
 
 On an Arch based distribution as root, run the following:
 
 ```
-curl -LO bgeneric.net/gears.sh
-sh gears.sh
+coming soon
 ```
-
-That's it.
 
 ## What is GEARS?
 
