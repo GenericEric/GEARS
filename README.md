@@ -10,7 +10,7 @@
 On an Arch based distribution as root, run the following:
 
 ```
-coming soon
+download gears.sh and run `./gears.sh`
 ```
 
 ## What is GEARS?
